@@ -17,3 +17,4 @@ I am an Analytics student <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 💻 Been dedicated to building a well-rounded analytics portfolio lately.
 - 🐍 In my free time I try to work on my coding and improve my Python skills.
 - 📨 How you can reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-alisha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alishakhan02)
+
