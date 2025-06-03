@@ -16,8 +16,8 @@ I am an Analytics student <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ## Projects & Highlights:
 
-- ✈️ [Airline Price Simulation](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/Airline_Price_Simulation) – Simulated dynamic pricing models using Python
-- 🦠 [COVID-19 Dashboard Analysis](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/COVID%2019%20ANALYSIS) – Visualized cases & trends using Databricks
+- ✈️ [Airline Price Simulation](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/Airline_Price_Simulation) - Simulated dynamic pricing models using Python
+- 🦠 [COVID-19 Dashboard Analysis](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/COVID%2019%20ANALYSIS) - Visualized cases & trends using Databricks
 
 ## Tools & Technologies
 
@@ -26,5 +26,5 @@ I am an Analytics student <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 📨 How you can reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-alisha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alishakhan02)
 ---
-> “Transforming raw data into real insights — one project at a time.”
+> “Transforming raw data into real insights - one project at a time.”
 
