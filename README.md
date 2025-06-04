@@ -18,7 +18,7 @@ I am an Analytics student <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - ✈️ [Airline Price Simulation](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/Airline_Price_Simulation) - Simulated dynamic pricing models using Python
 - 🦠 [COVID-19 Dashboard Analysis](https://github.com/AlishaKhxn/Analytics-portfolio/tree/main/COVID%2019%20ANALYSIS) - Visualized cases & trends using Databricks
-- 💳 [Banking Expense Tracker](https://github.com/AlishaKhxn/Analytics-portfolio/main/banking-expense-tracker) - Parsed PDF bank statements, categorized spending, and visualized trends using Python
+- 💳 [Banking Expense Tracker](https://github.com/AlishaKhxn/Analytics-portfolio/tree/d87d2d768578d412cbcb65d2e201b3c53811e8d9/Banking_Expense_Tracker) - Parsed PDF bank statements, categorized spending, and visualized trends using Python
 
 
 ## Tools & Technologies
